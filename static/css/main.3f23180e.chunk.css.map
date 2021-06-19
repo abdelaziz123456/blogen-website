@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/home/Home.css","webpack://src/components/logout/Logout.css"],"names":[],"mappings":"AAAA,MACI,gBAAiB,CACjB,eACJ,CCHA,UACI,WAGJ","file":"main.3f23180e.chunk.css","sourcesContent":["td,th{\r\n    padding: 10px 5px;\r\n    font-size:large\r\n}",".main-div{\r\n    height:75vh;\r\n    \r\n    \r\n}"]}
